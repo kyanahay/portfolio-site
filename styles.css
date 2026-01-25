@@ -79,3 +79,9 @@
     margin-bottom: 0.25rem;
   }
   
+  .profile-pic {
+  width: 140px;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  }
